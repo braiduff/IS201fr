@@ -1,0 +1,144 @@
+.bg-primary{
+    background-color: blue !important;
+
+}.text-primary{
+    color: blue
+}
+
+a-{
+    color: rgb (75, 75, 251)   
+}
+
+body{
+    background-color: white;
+}
+
+.yessir{
+    position: absolute;
+    /* border: solid 2px fuchsia; */
+    padding: 5px;
+}
+
+.yeyeye{
+    /* width: 100%; */
+    height: 75px;
+    right: 10px;
+    left: 10px;
+    text-align: center;
+    border: solid 2px black;
+    background-color: rgb(110, 110, 110);
+}
+
+.fooooter{
+    height: 50px;
+    right: 10px;
+    left: 10px;
+    line-height: 10px;
+    bottom: 10px;
+    background-color: rgb(110, 110, 110);
+    text-align: center;
+    font-style: italic;
+    border: solid 2px black;
+    position: fixed;
+}
+
+.babyyy{
+    display: inline;
+    top: 100px;
+    bottom: 77px;
+    left: 10px;
+    right: 10px;
+}
+
+.main-babyyy{
+    background-color: white;
+    right: 5px;
+    top: 5px;
+    width: 82%;
+    height: 97%;
+    border: solid 2px black;
+    overflow-y: scroll;
+}
+
+.left-menu{
+    top: 5px;
+    bottom: 5px;
+    left: 0px;
+    width: 15%;
+    background-color: rgb(110, 110, 110);
+    border: solid 2px black;
+    display: block;
+}
+
+.navigational{
+    position: relative;
+    float: right;
+    top: 20px;
+    right: 15px;
+    
+
+}
+
+.numbauno{
+    position: relative;
+    right: 0px;
+    bottom: 0px;
+    left: -6px;
+    top: -25%;
+    width: 100%;
+    height: 82%;
+    background-color: rgb(255, 255, 255);
+    border: solid 2px black;
+    color: black;
+}
+
+.twofer{
+    position: relative;
+    right: 0px;
+    bottom: 0px;
+    left: -6px;
+    top: -25%;
+    width: 100%;
+    height: 82%;
+    background-color: rgb(0, 0, 0);
+    border: solid 2px black;
+    color: white;
+}
+
+.trifer{
+    position: relative;
+    right: 0px;
+    bottom: 0px;
+    left: -6px;
+    top: -25%;
+    width: 100%;
+    height: 82%;
+    background-color: black;
+    border: solid 2px black;
+}
+
+.bodyish{
+    background-color: black;
+}
+
+.Bingbong{
+    color: rgb(0, 0, 0);
+}
+
+.Bingbong:hover{
+    color: rgb(165, 0, 0);
+    cursor: pointer;
+}
+
+.custom{
+    font-weight: bold;
+    font-size: xx-large;
+    color: rgb(255, 0, 0);
+    text-decoration: underline;
+    text-align: center;
+}
+
+.custom:hover{
+    font-size: small;
+
+}
